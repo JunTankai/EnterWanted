@@ -1,5 +1,5 @@
 import { Builder, Capabilities, By, until, WebDriver, WebElement } from "selenium-webdriver";
-import { CFAfindrestaurant } from "./CFAfindrestaurant";
+
 const fs = require("fs")
 const chromedriver = require("chromedriver");
 
